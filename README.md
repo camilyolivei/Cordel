@@ -2,7 +2,7 @@
 ![PRÉVIA (9)](https://github.com/camilyolivei/Cordel/assets/120147200/ddbfe487-b1e7-4942-b804-955674803599)
 
 
-Meu primeiro projeto do canal = curso em video
+Meu primeiro projeto  = canal curso em video
 
 - [Visualizar site completo](https://camilyolivei.github.io/Cordel/)<br/>
 
