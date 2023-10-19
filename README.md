@@ -1,5 +1,6 @@
 
-![PRÉVIA (9)](https://github.com/camilyolivei/Cordel/assets/120147200/ddbfe487-b1e7-4942-b804-955674803599)
+
+![previa1](https://github.com/camilyolivei/Cordel/assets/120147200/d9f8487e-bcba-4edb-a2ae-721b650159f0)
 
 
 Meu primeiro projeto  = canal curso em video
